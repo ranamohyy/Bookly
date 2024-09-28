@@ -38,7 +38,6 @@ Bookly uses the following icons from the **Flutter Icons** package:
 ## How to Use 📖
 
 1. **Browse Books**: Open the app and explore the wide range of books available.
-2. **Search Books**: Use the search bar to find your favorite books.
 3. **Read a Book**: Tap on any book to open it and start reading immediately.
 4. **Download a Book**: Save any book for offline reading by tapping the download button.
 5. **Enjoy Animations**: Experience smooth transitions when navigating through the app.
