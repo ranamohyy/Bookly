@@ -1,6 +1,8 @@
 # Bookly - Your Ultimate Book Companion 📚
 
 Bookly is an application designed to provide an extensive library of books where users can easily **browse**, **read**, and **download** books with just a few clicks. Whether you're looking for fiction, non-fiction, or academic resources, Bookly has something for every reader!
+
+
 ![photo_2024-09-28_04-47-49](https://github.com/user-attachments/assets/fb6ac3de-f1da-4082-83dd-eeb8ac6d1c1d)
 
 ## Features 🚀
