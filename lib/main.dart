@@ -38,7 +38,7 @@ class GoogleBooksApp extends StatelessWidget {
       MaterialApp.router(
          routerConfig: AppRouter.router,
         debugShowCheckedModeBanner: false,
-        title: 'Bookly App',
+        title: 'Bookly',
           theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: kPrimaryColor,
        textTheme:GoogleFonts.montserratTextTheme(
          ThemeData.dark().textTheme,
