@@ -1,4 +1,3 @@
-import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:google_books/lib/features/HomePage/data/models/book_model/view.dart';
 import 'package:google_books/lib/features/HomePage/presentation/views/widgets/custom_book_image.dart';
@@ -109,7 +108,7 @@ class _BookDetailsBodyState extends State<BookDetailsBody> {
                     const SizedBox(
                       height: 16,
                     ),
-                    const SimilarBooksListview(),
+                     SimilarBooksListview(),
 
                   ],
                 ),
