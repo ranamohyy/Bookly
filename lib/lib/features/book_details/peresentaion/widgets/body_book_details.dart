@@ -108,7 +108,7 @@ class _BookDetailsBodyState extends State<BookDetailsBody> {
                     const SizedBox(
                       height: 16,
                     ),
-                     SimilarBooksListview(),
+                     const SimilarBooksListview(),
 
                   ],
                 ),
