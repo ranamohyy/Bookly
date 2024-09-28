@@ -13,11 +13,11 @@ import 'lib/features/book_details/peresentaion/widgets/body_book_details.dart';
 
 void main() {
   setupServiceLocator();
-  runApp(const GoogleBooksApp());
+  runApp(const BooklyApp());
 }
 
-class GoogleBooksApp extends StatelessWidget {
-  const GoogleBooksApp({super.key});
+class BooklyApp extends StatelessWidget {
+  const BooklyApp({super.key});
   @override
   Widget build(BuildContext context) {
     return MultiBlocProvider(
