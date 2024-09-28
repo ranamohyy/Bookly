@@ -11,7 +11,9 @@ class CustomBookDetailAppBar extends StatelessWidget implements PreferredSizeWid
       child: AppBar(
         backgroundColor: Colors.black,
         leading: IconButton(
-          onPressed: (){},
+          onPressed: (){
+            Navigator.of(context).pop();
+          },
           icon: const Icon(Icons.close),
 
 
